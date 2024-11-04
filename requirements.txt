@@ -1,0 +1,7 @@
+fastapi~=0.112.0
+fastapi-users[sqlalchemy]
+uvicorn
+alembic
+sqlalchemy~=2.0.32
+pydantic~=2.8.2
+python-dotenv~=1.0.1
