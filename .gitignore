@@ -1,4 +1,4 @@
-/migrations
+migrations
 alembic.ini
 .env
-/.idea
+.idea
